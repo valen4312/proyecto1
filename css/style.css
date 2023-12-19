@@ -1,0 +1,10 @@
+.elementoPrincipal{
+    border: 10px solid black;
+    border-radius: 8px;
+}
+
+.elementoSecundario{
+    padding: 50px;
+    background-color: aqua;
+}
+
